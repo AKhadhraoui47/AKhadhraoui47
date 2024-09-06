@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center">Toolbox</h3>
+<h3 align="center">My Toolbox</h3>
 
 <p align="center">
 <img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
