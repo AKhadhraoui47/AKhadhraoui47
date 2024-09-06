@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Bilel Khadhraoui </h1>
+<h1 align="center">Welcome Sailor ⚓, I'm Bilel Khadhraoui </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+Engineer;Tech+Digital+Creator&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>  
+  <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Your+Favourite+Tech+Digital+Creator;Embedded+Systems+Engineer" alt="Typing SVG" />
+</a>  
 
-## About Me
-- 🎓 
-- 🌱 
-- 👯 Open to work.
-- 📫 Reach me at: mohamedbilelkhadhraoui@insat.ucar.tn
+## Get to know Me
+- 🎬 Passionate about Audiovisual Production
+- 💻 Currently expanding my knowledge of Embedded Linux  
+- 👯 Open to new Opportunities
 
 <br>
-
 
 <h3 align="center">Languages, MCUs and Tools</h3>
 
@@ -27,12 +26,21 @@
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="Linux"/>
 <img width="50" height="50" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T842A2PA3667PT17X34Y45D1038885179W18245H6942PA3669PT17X53Y1D1038885214W14496H29717/views/1,width=500,height=500,appearanceId=2,backgroundColor=ffffff/yocto-project-10th-anniversary-official-dark-tote-bag.jpg" alt="Yocto"/>
 <img width="50" height="60" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="RPi"/>
+<img width="50" height="50" src="https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp" alt="Sldrks"/>
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="Mtlb" />
 
-<h3 align="center">Social Media</h3>
+
+<h3 align="center">Get In Touch</h3>
 
 <p align="center">
-   I'm open to collaborations, discussions, and opportunities. Let's connect and explore possibilities<br>
+   Open for collaborations, discussions, and opportunities. Don't hesitate to reach out<br>
 <p align="center">   
-  <a href="www.linkedin.com/in/mohamed-bilel-khadhraoui" target="_blank" rel="nofollow"><img alt="Malek's Linkedin" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/mohamed-bilel-khadhraoui" target="_blank" rel="nofollow"><img alt="Bilel's Linkedin" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AKhadhraoui47" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mohamed_bilel_khadhraoui/" target="_blank" rel="nofollow"><img alt="insta" src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:mohamedbilelkhadhraoui@insat.ucar.tn" target="_blank" rel="nofollow"><img alt="insta" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  
 </p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Mastering+Embedded+Systems;Delivering+Knowledge+and+Excitement" alt="Typing SVG" />
+</a>
