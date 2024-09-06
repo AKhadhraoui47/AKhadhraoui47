@@ -12,12 +12,13 @@
 
 <br>
 
-<h3 align="center">Languages, MCUs and Tools</h3>
+<h3 align="center">Toolbox</h3>
 
 <p align="center">
 <img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C"/>
 <img width="50" height="50" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"/>
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="git"/>
 <img width="50" height="50" src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="STM32MPU"/>
 <img width="50" height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirRFKP8JpXm9r24pyVsuv0L46-TNhzSz_v4act_CZnHyaBoTTvX0DKmgcHKR0M-vMwGC5tAjyMt-fPAGvNwd8JQIllEPRf7X62juG5__WXbyLWyjgVJXg73TohRSkEv2ucuKPEoQzffJIJ3G-lyuKbcfE56JASxcHZ6a7wirfNpyfbBZtNky9qt6m5DKY/s225/225px-Package_MCU_blue.png" alt="STM32MCU"/>
 <img width="50" height="50" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" alt="ESP32"/>
@@ -26,8 +27,13 @@
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="Linux"/>
 <img width="50" height="50" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T842A2PA3667PT17X34Y45D1038885179W18245H6942PA3669PT17X53Y1D1038885214W14496H29717/views/1,width=500,height=500,appearanceId=2,backgroundColor=ffffff/yocto-project-10th-anniversary-official-dark-tote-bag.jpg" alt="Yocto"/>
 <img width="50" height="60" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="RPi"/>
-<img width="50" height="50" src="https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp" alt="Sldrks"/>
-<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="Mtlb" />
+
+<h3 align="center">Additional Tools</h3>
+<p align="center">
+<img width="45" height="45" src="https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp" alt="Sldrks"/>
+<img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="Mtlb" />
+<img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simu" />
+
 
 
 <h3 align="center">Get In Touch</h3>
