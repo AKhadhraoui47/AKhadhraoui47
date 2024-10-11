@@ -33,6 +33,7 @@
 <img width="45" height="45" src="https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp" alt="Sldrks"/>
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="Mtlb" />
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simu" />
+<img width="60" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSExP9ncylcVvvAPipzqe-tzAAe7BjYhpEfbw&s" alt="Simu" />
 
 
 
