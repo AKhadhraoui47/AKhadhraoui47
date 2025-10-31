@@ -21,7 +21,7 @@
 <img width="50" height="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"/>
 <img width="50" height="50" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="git"/>
-<img width="50" height="50" src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="STM32MPU"/>
+<img width="50" height="50" src="https://blog.st.com/wp-content/uploads/ST20409_STM32MP25x-copy_scr.jpg" alt="STM32MPU"/>
 <img width="50" height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirRFKP8JpXm9r24pyVsuv0L46-TNhzSz_v4act_CZnHyaBoTTvX0DKmgcHKR0M-vMwGC5tAjyMt-fPAGvNwd8JQIllEPRf7X62juG5__WXbyLWyjgVJXg73TohRSkEv2ucuKPEoQzffJIJ3G-lyuKbcfE56JASxcHZ6a7wirfNpyfbBZtNky9qt6m5DKY/s225/225px-Package_MCU_blue.png" alt="STM32MCU"/>
 <img width="50" height="50" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" alt="ESP32"/>
 <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJPAyrjz46qzrUPgiYMUXFmLgKP0oTViw3tQjetPdmJg5PZfIp-OoL07DV_5Z5Pa3ow8&usqp=CAU" alt="STM32Cube"/>
