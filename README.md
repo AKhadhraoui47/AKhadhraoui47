@@ -1,17 +1,4 @@
 <h1 align="center">Welcome Sailor ⚓, I'm Bilel Khadhraoui </h1>
-
-<p align="center">
-  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Your+Favourite+Tech+Digital+Creator;Embedded+Systems+Engineering" alt="Typing SVG" />
-</a>  
-
-## Get to know Me
-- 🎬 Passionate about Audiovisual Production
-- 💻 Currently expanding my knowledge of Embedded Linux  
-- 👯 Open to new Opportunities
-
-<br>
-
 <h3 align="center">My Toolbox</h3>
 
 <p align="center">
@@ -52,6 +39,4 @@
   <a href="mailto:mohamedbilelkhadhraoui@insat.ucar.tn" target="_blank" rel="nofollow"><img alt="insta" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://akhadhraoui47.github.io/My-Portfol/" target="_blank" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=link&logoColor=black&color=white"/></a>
 </p>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Mastering+Embedded+Systems;Delivering+Knowledge+and+Excitement" alt="Typing SVG" />
-</a>
+
